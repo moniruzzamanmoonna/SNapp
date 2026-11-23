@@ -34,7 +34,7 @@ Get-FileHash .\SNapp-Setup.exe -Algorithm SHA256
 ```
 
 ## Feedback
-Found a problem or have an idea? [Open an issue](https://github.com/moniruzzamanmoonna/SNapp/issues).
+Found a problem or have an idea? Message on Telegram: **[t.me/anonbox2026](https://t.me/anonbox2026)**
 
 ---
 Made by Muhammad Moniruzzaman
